@@ -1,2 +1,2 @@
-# cs225_ward
+# Connor Ward- CS225
 CS225- Web Programming
